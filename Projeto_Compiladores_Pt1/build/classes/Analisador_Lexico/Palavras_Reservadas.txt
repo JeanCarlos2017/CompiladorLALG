@@ -1,0 +1,22 @@
+0: nullError, simbolo no reconocido 
+1: nullError, simbolo no reconocido 
+2: null<OPMULT>
+3: null<AP>
+4: null<OPSUB>
+5: nullError, simbolo no reconocido 
+6: nullError, simbolo no reconocido 
+7: <null> 
+8: nullError, simbolo no reconocido 
+9: null<OPSOMA>
+10: nullError, simbolo no reconocido 
+11: nullError, simbolo no reconocido 
+12: nullError, simbolo no reconocido 
+13: null<OPMULT>
+14: null<AP>
+15: nullError, simbolo no reconocido 
+16: nullError, simbolo no reconocido 
+17: <null> 
+18: null<OPDIV>
+19: nullError, simbolo no reconocido 
+20: nullError, simbolo no reconocido 
++-------------+
